@@ -17,27 +17,6 @@ sum=user1*user2;
 
 System.out.print("You entered "+user1+ " with "+user2+" which is "+ sum);
 
+   }
 }
-}		
-			
-	
-
-
-
-
-		
-	
-	
-	
-
-
-
-
-
-
-
-
-	
-	
-
 
